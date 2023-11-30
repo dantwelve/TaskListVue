@@ -1,5 +1,3 @@
-# 12dz
-
 ## Project setup
 ```
 npm install
